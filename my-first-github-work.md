@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chisarah
-- 👀 I’m interested in Data Science 
+- 👀 I’m interested in learning Data Science 
 - 🌱 I’m currently learning programming language
-- 💞️ I’m looking to collaborate on this platform
+- 💞️ I’m looking to collaborate on coding in this platform or any other.
 - 📫 How to reach me is through my email addy, chisarah2013@gmail.com
 
 <!---
